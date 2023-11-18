@@ -3,11 +3,11 @@
 Notes on how to record MIDI/audio and video for YouTube videos.
 
 ### New track (from MIDI/VST template) 
-- right-click left track area, 'Insert track from template' -> PianoOne
+- right-click left track area (Track Control Panel), 'Insert track from template' -> PianoOne
 
 ### New track
-- double-click left track area to add new track
-- hit record, drag bottom of track down to get to Input.
+- double-click the Track Control Panel to add new track
+- hit record, drag bottom of track down to get to Input (it is usally hidden).
 - Input 
     - MIDI -> All MIDI inputs
 - To playback to keyboard
@@ -17,7 +17,7 @@ Notes on how to record MIDI/audio and video for YouTube videos.
     - Insert piano.ins currently in /Documents/REAPER Media/Piano1.ins
 
 ### Add video
-- drag video onto tracks section
+- drag video onto tracks (Arrange) section
 - Remove audio -> Right-click video track, Source Properties, Audio dropdown -> Disable audio 
 - Use Video tab at bottom left to view
 - Use Playback Rate dial to slow down to visually sync video with audio
@@ -37,6 +37,12 @@ Notes on how to record MIDI/audio and video for YouTube videos.
 ### Audio effects for a specific track
 - click 'FX' button, select 'AU: AUReverb2' for example
 - Fade in/out - drag from top/left and top/right corners of audio track
+
+### Edit things like Volume on a track
+- Click 'Trim' button
+    - select 'Volume' track envelope
+    - Modify Volumen envelope by dragging volume line or adding individual points by:
+        - right-click, 'Insert point'     
 
 ### Render
 - File -> Render...
