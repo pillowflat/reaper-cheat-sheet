@@ -38,6 +38,12 @@ Notes on how to record MIDI/audio and video for YouTube videos.
 - click 'FX' button, select 'AU: AUReverb2' for example
 - Fade in/out - drag from top/left and top/right corners of audio track
 
+### Tempo changes (local time stretch)
+- may need to change project settings timebase to Time from Beats
+- on 1 or more tracks, select the end of the section, press 'S'
+- select beginning of the section, press 'S'
+- Option + drag from right (icon should change to 2 hands grabbing)
+
 ### Edit things like Volume on a track
 - Click 'Trim' button
     - select 'Volume' track envelope
